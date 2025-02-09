@@ -1,5 +1,7 @@
 # Credit_Card_Financial_Insights
 
+ Developed an interactive dashboard using transaction and customer data from a SQL database, to provide real-time insights. Streamlined data processing & analysis to monitor key performance metrics and trends.
+
 ## Projects Insights:
    Week_On_Week change AND 
    Overview of Year-to-Date:
